@@ -163,7 +163,7 @@
           <p class="font-weight-bold mt-3">ประสานงานและจัดการอื่นๆ</p>
           <p>
             <a target="_blank" href="https://punchup.world/">Punch Up</a> และ
-            <a target="_blank" href="https://wevis.info/">Punch Up</a>
+            <a target="_blank" href="https://wevis.info/">WeVis</a>
             โปรเจกต์ Bangkok Budgeting ได้รับการสนับสนุนทุนในการดำเนินงานจาก
             <a target="_blank" href="https://www.ned.org"
               >National Endowment for Democracy (NED)</a
